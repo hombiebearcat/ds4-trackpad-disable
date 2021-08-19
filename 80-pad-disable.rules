@@ -1,0 +1,4 @@
+KERNEL=="js0", SUBSYSTEM=="input", RUN+="/path/to/ps4paddisable.sh"
+KERNEL=="js1", SUBSYSTEM=="input", RUN+="/path/to/ps4paddisable.sh"
+KERNEL=="js2", SUBSYSTEM=="input", RUN+="/path/to/ps4paddisable.sh"
+KERNEL=="js3", SUBSYSTEM=="input", RUN+="/path/to/ps4paddisable.sh"
